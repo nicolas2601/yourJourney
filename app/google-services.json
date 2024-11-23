@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518957439006",
+    "project_id": "yourjourney-7f7ee",
+    "storage_bucket": "yourjourney-7f7ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518957439006:android:bcbb4848b38d674a8b760f",
+        "android_client_info": {
+          "package_name": "co.edu.unab.cardona_joya_moerno.yourjourney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGBPHiHzCgZf4Y87QPf4P9vavLDmv7VNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
